@@ -1,1 +1,1 @@
-# Common operation scripts
+# Commonly used CV related scripts
